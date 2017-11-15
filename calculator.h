@@ -1,5 +1,6 @@
 #include <stdint.h>
-#include "unity/src/unity.h"
+
+// Function for addition, Substract, multiplication, division
 
 float add(float num1, float num2);
 float sub(float num1, float num2);
